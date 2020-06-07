@@ -1,0 +1,9 @@
+#ignore the following files
+
+./MULTI-ASPECT SENTIMENTAL_ANALYSIS.pptx
+
+#ignore the following folders
+
+Inputs/
+Outputs/
+
